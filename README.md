@@ -195,7 +195,6 @@ http://162.55.220.72:5005/object_info_4
 20. Передать в окружение переменную salary
 21. Написать цикл который выведет в консоль по порядку элементы списка из параметра salary.
 
-> 29_QA_Free_Channel:
 http://162.55.220.72:5005/user_info_2
 1. Вставить параметр salary из окружения в request
 2. Вставить параметр age из окружения в age
@@ -217,7 +216,4 @@ http://162.55.220.72:5005/user_info_2
 18. Проверить, что параметр qa_salary_after_3.5_years равен salary*3.8 из request (salary забрать из request.)
 19. Проверить, что в параметре person, 1-й элемент из u_name равен salary из request (salary забрать из request.)
 20. Проверить, что что параметр u_age равен age из request (age забрать из request.)
-21. Проверить, что параметр u_salary_5_years равен salary*4.2 из request (salary забрать из request.)
-22. ***Написать цикл который выведет в консоль по порядку элементы списка из параметра person.
-
-          
+21. Проверить, что параметр u_salary_5_years равен salary*4.2 из request (salary забрать из request.)      
