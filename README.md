@@ -1,4 +1,4 @@
-#Postman.HW_1
+# *Postman.HW_1*
 
 *Создать запросы в Postman*
 
@@ -137,11 +137,7 @@ response:
           }
           
           
- #Postman.HW_2
- 
- > 29_QA_Free_Channel:
-HW_2 Postman
-
+ # *Postman.HW_2*
 
 http://162.55.220.72:5005/first
 1. Отправить запрос.
